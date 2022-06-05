@@ -7,7 +7,6 @@
 
 ## Table of contents
 
-Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 
 > * [Title / Repository Name](#title--repository-name)
 >   * [About / Synopsis](#about--synopsis)
